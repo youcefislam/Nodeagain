@@ -1,0 +1,25 @@
+{
+  "name": "r-node",
+  "version": "1.0.0",
+  "description": "using node again, its been a long time my friend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/youcefislam/Nodeagain.git"
+  },
+  "author": "Hamaidi Youcef",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/youcefislam/Nodeagain/issues"
+  },
+  "homepage": "https://github.com/youcefislam/Nodeagain#readme",
+  "dependencies": {
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
