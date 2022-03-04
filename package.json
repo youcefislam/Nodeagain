@@ -4,7 +4,8 @@
   "description": "using node again, its been a long time my friend",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start" : "node index",
+    "dev" : "nodemon index"
   },
   "repository": {
     "type": "git",
